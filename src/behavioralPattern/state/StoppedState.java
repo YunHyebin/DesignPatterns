@@ -1,7 +1,4 @@
-package behavioralPattern.state.concreteStates;
-
-import behavioralPattern.state.PlayerContext;
-import behavioralPattern.state.State;
+package behavioralPattern.state;
 
 public class StoppedState implements State {
 	//정지 상태

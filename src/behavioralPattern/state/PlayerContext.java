@@ -1,9 +1,5 @@
 package behavioralPattern.state;
 
-import behavioralPattern.state.concreteStates.PausedState;
-import behavioralPattern.state.concreteStates.PlayingState;
-import behavioralPattern.state.concreteStates.StoppedState;
-
 public class PlayerContext {
 	//비디오 플레이어의 현재 상태를 관리하고, 상태에 따른 동작을 위임
 	private State playingState;
