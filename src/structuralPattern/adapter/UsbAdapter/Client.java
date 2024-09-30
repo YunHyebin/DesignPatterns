@@ -1,4 +1,4 @@
-package structuralPattern.adapter;
+package structuralPattern.adapter.UsbAdapter;
 
 public class Client {
 

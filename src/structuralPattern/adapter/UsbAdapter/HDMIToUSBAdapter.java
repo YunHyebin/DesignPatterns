@@ -1,4 +1,4 @@
-package structuralPattern.adapter;
+package structuralPattern.adapter.UsbAdapter;
 
 //Adapter역할
 //Client Interface(USBPort)와 Adaptee(HDMI)를 연결하는 클래스
