@@ -1,4 +1,4 @@
-package structuralPattern.adapter.UsbAdapter;
+package structuralPattern.adapter.usbAdapter;
 
 //Adaptee(Service)역할
 //자체적인 실제 비즈니스 로직(기능)을 제공하는 클래스
