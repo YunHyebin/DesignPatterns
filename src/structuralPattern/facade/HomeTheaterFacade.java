@@ -2,6 +2,9 @@ package structuralPattern.facade;
 
 import structuralPattern.facade.subSystem.*;
 
+//Facade
+//Client와 서브시스템 간의 인터페이스를 제공.
+//서브시스템의 여러 클래스와 메소드를 조합하여 Client에게 단순화된 메소드 제공.
 public class HomeTheaterFacade {
 	private DVDPlayer dvdPlayer;
 	private Projector projector;
