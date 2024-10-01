@@ -1,7 +1,7 @@
 package behavioralPattern.state;
 
 public class PlayerContext {
-	//비디오 플레이어의 현재 상태를 관리하고, 상태에 따른 동작을 위임
+	//비디오 플레이어의 현재 상태를 관리하고, 상태에 따른 동작을 위임한다.
 	private State playingState;
 	private State pausedState;
 	private State stoppedState;
